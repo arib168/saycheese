@@ -1,5 +1,5 @@
-# SayCheese v1.0
-Take webcam shots from target just sending a malicious link
+# SayCheese v1.0 An amazing project
+Take a click from target just sending a malicious link
 
 ![cheese](https://user-images.githubusercontent.com/34893261/56869077-e5714d80-69d1-11e9-8ce2-29a254021890.jpg)
 
